@@ -1,4 +1,4 @@
-Code:
+Code files:
 
 "1.Code_Table1.py": the Python script to replicate Table 1. It includes the code for conventional machine learning models in predicting incivility.
 "1.Code_Table1_Appendix.html": the Python script to replicate Tables A/B/C 1 in the appendix.
@@ -20,7 +20,7 @@ Datasets:
 "train_crowd.csv": the training dataset for Tables in the appendix (using perceptions as the ground truth)
 "Figure3.xlsx": the dataset to produce Figure 3.
 
-"word2vec_hk_2022.model": the Word2Vec model trained with the forum comments.
+"word2vec_hk_2022.model": the Word2Vec model trained with the forum comments. (a large dataset to be downloaded here: https://www.dropbox.com/s/3do1mejt84gs1rb/word2vec_hk_2022.model?dl=0)
 "namecalling_byRound.rds": name-calling words in each round of the iteration.
 "vulgarity_byRound.rds": vulgar words in each round of the iteration.
 "perception_survey.rds": the dataset from the survey experiment.
