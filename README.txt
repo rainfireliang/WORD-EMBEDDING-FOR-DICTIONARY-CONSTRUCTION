@@ -1,4 +1,5 @@
-These are the replication materials for Liang, H., Ng, Y. M. M., & Tsang, N. L. T. (2023). Word embedding enrichment for dictionary construction: An example of incivility in Cantonese. Computational Communication Research.
+These are the replication materials for 
+Liang, H., Ng, Y. M. M., & Tsang, N. L. T. (2023). Word embedding enrichment for dictionary construction: An example of incivility in Cantonese. Computational Communication Research.
 
 Code files:
 
