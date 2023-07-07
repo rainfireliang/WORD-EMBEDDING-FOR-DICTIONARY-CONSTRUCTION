@@ -1,3 +1,5 @@
+These are the replication materials for Liang, H., Ng, Y. M. M., & Tsang, N. L. T. (2023). Word embedding enrichment for dictionary construction: An example of incivility in Cantonese. Computational Communication Research.
+
 Code files:
 
 "1.Code_Table1.py": the Python script to replicate Table 1. It includes the code for conventional machine learning models in predicting incivility.
