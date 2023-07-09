@@ -1,23 +1,23 @@
-#These are the replication materials for 
-Liang, H., Ng, Y. M. M., & Tsang, N. L. T. (2023). Word embedding enrichment for dictionary construction: An example of incivility in Cantonese. Computational Communication Research.
+These are the replication materials for 
+**Liang, H., Ng, Y. M. M., & Tsang, N. L. T. (2023). Word embedding enrichment for dictionary construction: An example of incivility in Cantonese. Computational Communication Research.**
 
-##Code files:
+## Code files:
 
-"1.Code_Table1.py": the Python script to replicate Table 1. It includes the code for conventional machine learning models in predicting incivility.
-"1.Code_Table1_Appendix.html": the Python script to replicate Tables A/B/C 1 in the appendix.
+- "1.Code_Table1.py": the Python script to replicate Table 1. It includes the code for conventional machine learning models in predicting incivility.
+- "1.Code_Table1_Appendix.html": the Python script to replicate Tables A/B/C 1 in the appendix.
 
-"2.Code_Table2_Doc2Vec.py": the Python script to replicate part of Table 2. It includes the code for conventional machine learning models with Word2Vec. 
-"2.Code_Table2_Doc2Vec_Appendix.html": the Python script to replicate Tables A/B/C 2 in the appendix.
+- "2.Code_Table2_Doc2Vec.py": the Python script to replicate part of Table 2. It includes the code for conventional machine learning models with Word2Vec. 
+- "2.Code_Table2_Doc2Vec_Appendix.html": the Python script to replicate Tables A/B/C 2 in the appendix.
 
-"3.Code_Table2_DeepNN.py": the Python script to replicate the rest of Table 2. It includes the deep learning models with the pre-trained Word2Vec as the weights in an embedding layer.
-"3.Code_Table2_DeepNN_Appendix.html": the Python script to replicate Tables A/B/C 2 in the appendix.
+- "3.Code_Table2_DeepNN.py": the Python script to replicate the rest of Table 2. It includes the deep learning models with the pre-trained Word2Vec as the weights in an embedding layer.
+- "3.Code_Table2_DeepNN_Appendix.html": the Python script to replicate Tables A/B/C 2 in the appendix.
 
-"4.Code_Figure2B&C.py": the Python script to create the dataset for producing Figures 2B and 2C.
-"4.RCode_Fig2ABC.R": the R script to plot Figure 2.
+- "4.Code_Figure2B&C.py": the Python script to create the dataset for producing Figures 2B and 2C.
+- "4.RCode_Fig2ABC.R": the R script to plot Figure 2.
 
-"5.RCode_PerceptionAnalysis.R": the R script to analyze the data from the survey experiment.
+- "5.RCode_PerceptionAnalysis.R": the R script to analyze the data from the survey experiment.
 
-##Datasets:
+## Datasets:
 
 "train.csv": the training dataset for Tables 1&2.
 "train_crowd.csv": the training dataset for Tables in the appendix (using perceptions as the ground truth)
