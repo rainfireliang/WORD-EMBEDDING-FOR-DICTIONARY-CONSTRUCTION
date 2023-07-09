@@ -19,16 +19,16 @@ These are the replication materials for
 
 ## Datasets:
 
-"train.csv": the training dataset for Tables 1&2.
-"train_crowd.csv": the training dataset for Tables in the appendix (using perceptions as the ground truth)
-"Figure3.xlsx": the dataset to produce Figure 3.
+- "train.csv": the training dataset for Tables 1&2.
+- "train_crowd.csv": the training dataset for Tables in the appendix (using perceptions as the ground truth)
+- "Figure3.xlsx": the dataset to produce Figure 3.
 
-"word2vec_hk_2022.model": the Word2Vec model trained with the forum comments. (a large dataset to be downloaded here: https://www.dropbox.com/s/3do1mejt84gs1rb/word2vec_hk_2022.model?dl=0)
-"namecalling_byRound.rds": name-calling words in each round of the iteration.
-"vulgarity_byRound.rds": vulgar words in each round of the iteration.
-"perception_survey.rds": the dataset from the survey experiment.
+- "word2vec_hk_2022.model": the Word2Vec model trained with the forum comments. (a large dataset to be downloaded [here](https://www.dropbox.com/s/3do1mejt84gs1rb/word2vec_hk_2022.model?dl=0))
+- "namecalling_byRound.rds": name-calling words in each round of the iteration.
+- "vulgarity_byRound.rds": vulgar words in each round of the iteration.
+- "perception_survey.rds": the dataset from the survey experiment.
 
-"stopCantonese.txt": a list of stop words in Cantonese.
-"word_dic_2022.txt": some customized words for Chinese tokenization.
+- "stopCantonese.txt": a list of stop words in Cantonese.
+- "word_dic_2022.txt": some customized words for Chinese tokenization.
 
 "uncivil_words.txt": the incivility dictionary created in this article.
