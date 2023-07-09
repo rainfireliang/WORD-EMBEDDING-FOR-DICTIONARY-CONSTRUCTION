@@ -1,7 +1,7 @@
-These are the replication materials for 
+#These are the replication materials for 
 Liang, H., Ng, Y. M. M., & Tsang, N. L. T. (2023). Word embedding enrichment for dictionary construction: An example of incivility in Cantonese. Computational Communication Research.
 
-Code files:
+##Code files:
 
 "1.Code_Table1.py": the Python script to replicate Table 1. It includes the code for conventional machine learning models in predicting incivility.
 "1.Code_Table1_Appendix.html": the Python script to replicate Tables A/B/C 1 in the appendix.
@@ -17,7 +17,7 @@ Code files:
 
 "5.RCode_PerceptionAnalysis.R": the R script to analyze the data from the survey experiment.
 
-Datasets:
+##Datasets:
 
 "train.csv": the training dataset for Tables 1&2.
 "train_crowd.csv": the training dataset for Tables in the appendix (using perceptions as the ground truth)
