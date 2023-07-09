@@ -31,4 +31,4 @@ These are the replication materials for
 - "stopCantonese.txt": a list of stop words in Cantonese.
 - "word_dic_2022.txt": some customized words for Chinese tokenization.
 
-"uncivil_words.txt": the incivility dictionary created in this article.
+- "uncivil_words.txt": the incivility dictionary created in this article.
